@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# 解包产物（别把几十 MB 的视频提交上去）
+WallpaperEngine/
+*.mp4
+*.webm
+*.mkv
+!docs/*.mp4
+.idea/
+.vscode/
+.DS_Store
